@@ -14,4 +14,4 @@ In this repository, for ImpactMiner you will find:
  
  :white_check_mark: Original Buglocalizer plugin 
  
-This repository was constructed by [Nikhil Josyabhatla](https://github.com/nikhiljosyabhatla) of Team New Hanover under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+This repository was constructed by [Nikhil Josyabhatla](https://github.com/nikhiljosyabhatla) of Team New Hanover under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Ferdian Thung, Tien-Duy B. Le, Pavneet Singh Kochha & David Lo for their help in establishing this repository.
