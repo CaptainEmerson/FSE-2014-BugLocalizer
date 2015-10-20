@@ -8,7 +8,7 @@ Please note that this repository *is not* the original repository for this tool.
 
 Here is the link to the [Original Project Repo](https://github.com/smagsmu/BugLocalizer) and here is the link to the [Video](https://www.youtube.com/watch?v=iWHaLNCUjBY) showing the demonstration of the tool.
 
-In this repository, for ImpactMiner you will find:
+In this repository, for BugLocalizer you will find:
 
  :white_check_mark: Source code for BugLocalizer
  
