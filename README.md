@@ -6,7 +6,11 @@ The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm
 
 Please note that this repository *is not* the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
 
-Here is the link to the [Original Project Repo](https://github.com/smagsmu/BugLocalizer) and here is the link to the [Video](https://www.youtube.com/watch?v=iWHaLNCUjBY) showing the demonstration of the tool.
+Here are some links for the tool:
+ * [Original Project Repo](https://github.com/smagsmu/BugLocalizer)
+ * [Video](https://www.youtube.com/watch?v=iWHaLNCUjBY) showing the demonstration of the tool.
+ * No binary for the tool
+ * No project website available
 
 In this repository, for BugLocalizer you will find:
 
