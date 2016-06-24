@@ -9,7 +9,7 @@ Please note that this repository *is not* the original repository for this tool.
  * [Video](https://www.youtube.com/watch?v=iWHaLNCUjBY) showing the demonstration of the tool.
 
 In this repository, for BugLocalizer you will find:
-* :white_check_mark: [Source code](.)
+* :white_check_mark: [Source code]()
 * :x: Executable tool (not available)
 * :x: Virtual machine containing tool (not available)
  
